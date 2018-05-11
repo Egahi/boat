@@ -1,0 +1,16 @@
+5
+Unknown
+Titanic
+300 150 100
+USA
+missurori
+500 250 200
+NIGERIA
+deltaCruise
+100 50 30
+JAPAN
+Predator
+150 150 150
+USSR
+TheBeast
+500 300 300
